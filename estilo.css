@@ -1,0 +1,30 @@
+.calculadora{
+    width: 300px;
+    height: 400px;
+    background-color: beige;
+    margin-left: 40%;
+
+}
+
+.calc{
+    margin-left: 20px;
+        
+    }
+
+.n1, .n2{
+    padding: 20px;
+    font-size: 20px;
+    }
+
+button{
+    width: 96%;
+    font-size: 20px;
+    
+}
+
+button:hover{
+
+    cursor: pointer;
+    background-color: aquamarine;
+}
+
